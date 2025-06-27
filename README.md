@@ -26,17 +26,18 @@ An interactive Excel-based dashboard that provides comprehensive insights into e
 ### [CLICK TO SEE WORKSHEET IMAGES](https://github.com/gbadrain/Ecommerce_excel_dash/blob/main/WORKSHEET%20IMAGES.pdf)
 
 ```
-Ecommerce_Dashboard/
+   Ecommerce_excel_dash/
 ├── Ecommerce Sales Analysis.xlsm         # Main interactive dashboard with macros
-└── Worksheet images/                      # Dashboard screenshots
-    ├── Screenshot 2025-06-26 at 3.25.50 PM.png
-    ├── Screenshot 2025-06-26 at 3.26.58 PM.png
-    ├── Screenshot 2025-06-26 at 3.27.05 PM.png
-    ├── Screenshot 2025-06-26 at 3.27.10 PM.png
-    ├── Screenshot 2025-06-26 at 3.27.18 PM.png
-    ├── Screenshot 2025-06-26 at 3.27.24 PM.png
-    ├── Screenshot 2025-06-26 at 3.27.48 PM.png
-    └── Screenshot 2025-06-26 at 3.27.55 PM.png
+└── Worksheet images/                     # Dashboard screenshots
+    ├── DASHBOARD.png
+    ├── KPI.png
+    ├── KPIOYOY.png
+    ├── COMBO_CHART.png
+    ├── PIE_CHART.png
+    ├── WATERFALL_CHART.png
+    ├── TOP 5.png
+    └── MAP_CHART.png
+
 ```
 
 ## Technologies Used
