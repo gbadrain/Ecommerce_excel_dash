@@ -27,7 +27,6 @@ An interactive Excel-based dashboard that provides comprehensive insights into e
 ```
 Ecommerce_Dashboard/
 ├── Ecommerce Sales Analysis.xlsm         # Main interactive dashboard with macros
-├── Ecommerce Sales Analysis.xlsx         # Static version (no macros)
 └── Worksheet images/                      # Dashboard screenshots
     ├── Screenshot 2025-06-26 at 3.25.50 PM.png
     ├── Screenshot 2025-06-26 at 3.26.58 PM.png
