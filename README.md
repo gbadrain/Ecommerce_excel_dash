@@ -23,6 +23,7 @@ An interactive Excel-based dashboard that provides comprehensive insights into e
 - **Interactive Controls**: User-friendly slicers and timeline filters
 
 ## Project Structure
+### [CLICK TO SEE WORKSHEET IMAGES](https://github.com/gbadrain/Ecommerce_excel_dash/blob/main/WORKSHEET%20IMAGES.pdf)
 
 ```
 Ecommerce_Dashboard/
