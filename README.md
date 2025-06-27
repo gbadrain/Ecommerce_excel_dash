@@ -1,6 +1,7 @@
 # Ecommerce Sales Analysis Dashboard
 
 An interactive Excel-based dashboard that provides comprehensive insights into ecommerce sales performance across regions, time periods, and product categories. Built with Excel PivotTables, charts, and VBA automation for dynamic data exploration.
+<img width="1621" alt="Screenshot 2025-06-26 at 3 25 50 PM" src="https://github.com/user-attachments/assets/1982416c-7c39-4712-bf97-5c9b4650a065" />
 
 ## Features
 
