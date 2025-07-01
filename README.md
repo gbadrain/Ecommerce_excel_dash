@@ -129,7 +129,7 @@ This project demonstrates Excel and VBA capabilities for business intelligence. 
 ## Contact
 
 **Gurpreet Singh Badrain**  
-*Market Research Analyst & Aspiring Data Analyst*
+* Data Analyst & Market Research Analyst *
 
 - **Portfolio**: [Data Guru](https://datascienceportfol.io/gbadrain)
 - **LinkedIn**: [gurpreet-badrain](http://linkedin.com/in/gurpreet-badrain-b258a0219)
